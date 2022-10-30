@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-using-mern",
+  "version": "1.0.0",
+  "description": "Restaurant applicatin using Mern",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sailesh",
+  "license": "ISC"
+}
